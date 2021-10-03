@@ -1,7 +1,10 @@
 # crowd-analysis-from-istanbul-city-surveillance-cameras
 
 An interface has been designed where you can easily perform crowd analysis by connecting to Istanbul's city surveillance cameras. It was a very enjoyable job for me. This work can be transformed into different projects.
-
+### Requirements
+Pyqt5
+opencv-python
+time
 ### How to work
 
 you need to run like `python main.py`
